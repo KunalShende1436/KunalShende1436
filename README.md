@@ -1,4 +1,4 @@
-<h1 align="center">HeY 👋,Kunal M Shende</h1>
+<h1 align="center">Hey 👋,Kunal M Shende</h1>
 <h3 align="center">Software Developer | B.Tech CSE</h3>
 
 <p align="center">
